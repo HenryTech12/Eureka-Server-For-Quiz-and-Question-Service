@@ -17,5 +17,5 @@ This is one of three repositories for the project:
 - Maven
 
 ## Links
-- Quiz Service Repository Url:
-- Question Service Repository Url: 
+- Quiz Service Repository Url: [quiz service] (https://github.com/HenryTech12/quiz-service)
+- Question Service Repository Url: [question service] (https://github.com/HenryTech12/question-service)
